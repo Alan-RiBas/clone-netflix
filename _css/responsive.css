@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (min-width:1000px;){
+@media screen and (mix-width:1000px) {
     .main-movie .description{
         width:50%;
     }
